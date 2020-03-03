@@ -11,6 +11,6 @@ pizza shop.
 ### License
 **{MIT}**
 
-Permision is herby granted to anyone using this software for purposes of making orders and making inquries of the delivery of pizzza .the sofware has restrictions and is modified to certain conditiona like merging sublicencing followimg the same conditions.
+Permision is here by granted to anyone using this software for purposes of making orders and making inquries of the delivery of pizzza .the sofware has restrictions and is modified to certain conditiona like merging sublicencing followimg the same conditions.
 Copyright (c) {2020} **{Jared amima}**
   
