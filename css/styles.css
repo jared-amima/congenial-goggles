@@ -1,0 +1,26 @@
+body{
+    width: 100;
+    overflow-x: hidden;
+    font-family: 'Yantramanav', sans-serif;
+    background-image: url(pepperoni.jpg);
+  }
+  .back{
+  
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 600px;
+    background-size: cover;
+    color: antiquewhite;
+    text-align: center;
+    font-size: 60%;
+    padding: 150px;
+    position: relative;
+  }
+  H1 {
+    text-align: center;
+    text-decoration: wavy;
+  }
+  p {
+    text-align: center;
+    text-overflow: inherit;
+  }
