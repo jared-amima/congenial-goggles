@@ -5,7 +5,7 @@ pizza shop
 ## Description
 {Tthis is on online pizza order sheet used to get and order pizza online.Delivery is made to the customer and also payments communicated through to the customer online.much more simple and also save energy.}
 ## Setup/Installation Requirements
-*handely prepared by the best chefs ever.*u can visithttps://github.com/jared-amima/pizzashop/for more information.
+*handely prepared by the best chefs ever.*u can visithttps://github.com/jared-amima/pizzashop/for more information.*
 ## Technologies Used
 {i used html together with css and also some bit of java script}
 ### License
