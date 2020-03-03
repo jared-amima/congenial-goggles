@@ -1,5 +1,5 @@
 # pizzashop
-pizza shop
+pizza shop.
 # {JARED AMIMA}
 #### {online shopping of pizaa that is done simply through ordering online.The deliverys are made right in thr door steep of the customer and the prices are also communicated in the website as sighted}, {2020}
 ## Description
